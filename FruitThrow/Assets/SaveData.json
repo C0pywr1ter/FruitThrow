@@ -1,0 +1,30 @@
+{
+    "playerPots": [
+        {
+            "instanceID": 23856
+        }
+    ],
+    "cookingPots": [],
+    "playerMoney": 17,
+    "playerRating": 2.0999999046325685,
+    "playerDayCount": 2,
+    "playerPotObjects": [
+        {
+            "position": {
+                "x": -11.262639045715332,
+                "y": 4.460000038146973,
+                "z": 4.329999923706055
+            },
+            "rotation": {
+                "x": -0.9134540557861328,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.4069419205188751
+            },
+            "playerPotObj": {
+                "instanceID": 23856
+            },
+            "objectId": "pot1"
+        }
+    ]
+}

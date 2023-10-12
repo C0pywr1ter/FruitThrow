@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: acb9e825135162142bfa460b403e40e6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274523c5af90845479aa00102cc418c4
+      internalID: 1046091769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 852
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a176f25712f6942b70fda1dc3786a7
+      internalID: -1240468278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 852
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b2143ed1f285b42ada418e2570c6f0
+      internalID: 766502205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_3
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 852
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be4e4185a93fc84b8b240eadd6dae2a
+      internalID: -1827683566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_4
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 852
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99a404990a9c9e4cbda1771c60d510e
+      internalID: -470677254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_5
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 852
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a102b9ad5bbe346b7f05a0e1921fbe
+      internalID: -1196775479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_6
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 852
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0130962a12d9adf419d0ab7a0fc8af63
+      internalID: 2098557644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_7
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 852
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de1396a670bef84c9e20c32d089fb12
+      internalID: 115778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8806088ab076a439b5ef44d6c75d8c
+      internalID: -1373057687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 639
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc3804ba766a814fbc54d693a97e817
+      internalID: -1750870403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 639
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce42ff28d705f94181607b03441eb1f
+      internalID: 1769871123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_11
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 639
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d941bab00aeb73489ca87f2046b834b
+      internalID: -403128314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_12
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 639
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834f8b1eb2a70654e8fe6eff7c7142d9
+      internalID: 832627394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_13
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 639
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938716a93896c444fad570bc53ecdb5d
+      internalID: -1203885128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_14
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 639
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12502b1fbf61c14ea41699600cbdd3e
+      internalID: 2034503328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_15
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 639
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a08d02b1d10bfb4fb076885ed4ff4b1
+      internalID: -478577549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c48010fbfbcef45b4897dc680d2a83
+      internalID: 339491845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_17
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 426
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002f34511a7995c42b91c407a96abec3
+      internalID: -1970996855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_18
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 426
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2189c71bc370d42b0ad6a713680259
+      internalID: 344378927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_19
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 426
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5579c25e8eae87940ac769817cecc9bf
+      internalID: -747901114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_20
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 426
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110a22d2f5ce75c4cad60a26d75b32f5
+      internalID: -2045410493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_21
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 426
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766884d57878b0c40b12e4f62c58baf8
+      internalID: 1474309198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_22
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 426
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d28a0331e9243479a6d37c98f144df
+      internalID: -343430807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_23
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 426
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5129ec3ef10a7469193864d39e49c4
+      internalID: -520726316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc3bf2d94b00f04e86509412e939006
+      internalID: -131171359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_25
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 213
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39432e65c83fa894596558323d5a452d
+      internalID: -1426456335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 213
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb080fed3044e6f4b8ea22f0bebeb632
+      internalID: 1312507459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_27
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 213
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b3d99eef536ac49801c83401345a02
+      internalID: 1036322250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_28
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 213
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7414fc11d1fb4b346acd52853f812e34
+      internalID: -156054469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_29
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 213
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2408b05cfc9b78c42a8ff1db36d4661a
+      internalID: -1279483148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_30
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 213
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bc3d25ddab6c142b6df49693b3a8bd
+      internalID: 717467263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_31
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 213
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e3a61d14abd5143bf206bf25d5905e
+      internalID: -2084376770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f30a1f5df4bb2489a929936e0a2b0f
+      internalID: -691935775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4f343c1e91631499c9a14538d35b19
+      internalID: -2046753465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_34
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c7f9756c25bde489ca241b5aeb1c13
+      internalID: -286585922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_35
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa708f25d2b0c914584f17ace9b55412
+      internalID: -1041620720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_36
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a80124058df09840927714bde55cd36
+      internalID: 696414366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_37
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cede7c7b154e4414b814475db18366fa
+      internalID: 1072549825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_38
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0fb614f4b341a46bef0a19af7d880c
+      internalID: -1898789825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Food-Icons-Pixel-Art2 1_39
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 0
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf63e21a1ed054448b6595be1ee6425
+      internalID: -2112562069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7bc1aae3627f41d449f9bbe7a833b5b7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      40-Food-Icons-Pixel-Art2 1_10: 1769871123
+      40-Food-Icons-Pixel-Art2 1_18: 344378927
+      40-Food-Icons-Pixel-Art2 1_36: 696414366
+      40-Food-Icons-Pixel-Art2 1_17: -1970996855
+      40-Food-Icons-Pixel-Art2 1_13: -1203885128
+      40-Food-Icons-Pixel-Art2 1_24: -131171359
+      40-Food-Icons-Pixel-Art2 1_22: -343430807
+      40-Food-Icons-Pixel-Art2 1_21: 1474309198
+      40-Food-Icons-Pixel-Art2 1_26: 1312507459
+      40-Food-Icons-Pixel-Art2 1_7: 115778
+      40-Food-Icons-Pixel-Art2 1_6: 2098557644
+      40-Food-Icons-Pixel-Art2 1_2: 766502205
+      40-Food-Icons-Pixel-Art2 1_14: 2034503328
+      40-Food-Icons-Pixel-Art2 1_31: -2084376770
+      40-Food-Icons-Pixel-Art2 1_15: -478577549
+      40-Food-Icons-Pixel-Art2 1_20: -2045410493
+      40-Food-Icons-Pixel-Art2 1_23: -520726316
+      40-Food-Icons-Pixel-Art2 1_0: 1046091769
+      40-Food-Icons-Pixel-Art2 1_32: -691935775
+      40-Food-Icons-Pixel-Art2 1_37: 1072549825
+      40-Food-Icons-Pixel-Art2 1_9: -1750870403
+      40-Food-Icons-Pixel-Art2 1_12: 832627394
+      40-Food-Icons-Pixel-Art2 1_33: -2046753465
+      40-Food-Icons-Pixel-Art2 1_5: -1196775479
+      40-Food-Icons-Pixel-Art2 1_11: -403128314
+      40-Food-Icons-Pixel-Art2 1_39: -2112562069
+      40-Food-Icons-Pixel-Art2 1_19: -747901114
+      40-Food-Icons-Pixel-Art2 1_29: -1279483148
+      40-Food-Icons-Pixel-Art2 1_16: 339491845
+      40-Food-Icons-Pixel-Art2 1_25: -1426456335
+      40-Food-Icons-Pixel-Art2 1_35: -1041620720
+      40-Food-Icons-Pixel-Art2 1_27: 1036322250
+      40-Food-Icons-Pixel-Art2 1_30: 717467263
+      40-Food-Icons-Pixel-Art2 1_38: -1898789825
+      40-Food-Icons-Pixel-Art2 1_1: -1240468278
+      40-Food-Icons-Pixel-Art2 1_8: -1373057687
+      40-Food-Icons-Pixel-Art2 1_28: -156054469
+      40-Food-Icons-Pixel-Art2 1_3: -1827683566
+      40-Food-Icons-Pixel-Art2 1_4: -470677254
+      40-Food-Icons-Pixel-Art2 1_34: -286585922
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
